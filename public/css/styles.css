@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 15rem;
+}
