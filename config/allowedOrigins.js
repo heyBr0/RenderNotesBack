@@ -1,5 +1,5 @@
 const allowedResources = [
-    "http://localserver:3000" 
+    "https://rendernotes.onrender.com/" 
 ]
 
 module.exports = allowedResources
